@@ -1,0 +1,29 @@
+@media only screen and (min-width: 1000px) {
+    .paragraph {
+        margin-left: 10vh;
+        padding-right: 5vh;
+        padding-left: 5vh;
+        margin-top: 5vh;
+        width: 50%;
+        font-size: 2vh;
+        color: #050505;
+        text-shadow: 2px 2px 4px rgb(255, 255, 255);
+        background-color: rgba(247, 237, 226, 0.73);
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .paragraph {
+        margin-left: 10vh;
+        font-size:1vh;
+        margin-right: 10vh;
+        padding-right: 5vh;
+        padding-left: 5vh;
+        margin-top: 2vh;
+        text-align: left;
+        width: 20%;
+        color: #193302;
+        text-shadow: 2px 2px 4px rgb(255, 255, 255);
+        background-color: rgba(247, 237, 226, 0.73);
+    }
+}

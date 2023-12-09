@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db671373.css",
+    "main.js": "/static/js/main.ea4e7f5e.js",
+    "static/js/787.e2e48cf4.chunk.js": "/static/js/787.e2e48cf4.chunk.js",
+    "static/media/blush.png": "/static/media/blush.c7b5832b216686373a1a.png",
+    "static/media/cleanhouse1.png": "/static/media/cleanhouse1.0d36ffb12d831dea384f.png",
+    "static/media/cleanhouse.png": "/static/media/cleanhouse.b94b65a0f6cf6b31c133.png",
+    "static/media/mail background.png": "/static/media/mail background.3bb0db7c351a5a6ff4c9.png",
+    "index.html": "/index.html",
+    "main.db671373.css.map": "/static/css/main.db671373.css.map",
+    "main.ea4e7f5e.js.map": "/static/js/main.ea4e7f5e.js.map",
+    "787.e2e48cf4.chunk.js.map": "/static/js/787.e2e48cf4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db671373.css",
+    "static/js/main.ea4e7f5e.js"
+  ]
+}

@@ -1,0 +1,106 @@
+
+@media only screen and (min-width: 1000px) {
+  hr {
+    border: none; /* Remove the default border */
+    height: 1vh; /* Set the height of the line */
+    background-color: rgba(44, 19, 61, 0.39); /* Set the line color (black in this example) */
+  }
+
+  .background-template {
+    background-image: url('./images/cleanhouse.png');
+    background-size: cover;
+    height: 500vh;
+    width: 900vh;
+    display: flex;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Optional: Fixed background for parallax effect */
+    background-position: center center;
+    background-color: rgba(255, 255, 255, 0);
+  }
+
+  .background-template2 {
+    background-image: url('./images/cleanhouse.png');
+    height: 180vh;
+    width: 200vh;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    display:flex;
+    background-color: rgb(132, 165, 157);
+  }
+
+  .background-template3 {
+    background-image: url('./images/mail background.png');
+    background-size: cover;
+    height: 370vh;
+    width: 200vh;
+    display: flex;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Optional: Fixed background for parallax effect */
+    background-position: center center;
+    background-color: rgb(255, 255, 255);
+  }
+  .linkStyle {
+    font-size: 3vh;
+    font-family:'Arial','Courier New';
+    margin-left:25vh;
+  }
+  a:hover { color: #f3c5ff; };
+
+}
+
+
+@media only screen and (max-width: 1000px) {
+
+  hr {
+    border: none; /* Remove the default border */
+    height: 2vh; /* Set the height of the line */
+    background-color: rgba(44, 19, 61, 0.39); /* Set the line color (black in this example) */
+  }
+
+  .background-template {
+    background-image: url('./images/cleanhouse1.png');
+    background-size: cover;
+    height: 500vh;
+    width: 100vh;
+    display: flex;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Optional: Fixed background for parallax effect */
+    background-position: center center;
+    background-color: rgba(255, 255, 255, 0);
+  }
+
+  .background-template2 {
+    height: 400vh;
+    width: 450vh;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    display:flex;
+    background-color: rgb(132, 165, 157);
+  }
+
+  .background-template3 {
+    background-size: cover;
+    height: 100vh;
+    width: 100vh;
+    display: flex;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Optional: Fixed background for parallax effect */
+    background-position: center center;
+    background-color: rgba(255, 255, 255, 0);
+  }
+
+
+  .linkStyle {
+    font-size: 5vh;
+    margin-left:2vh;
+    font-family:'Arial','Courier New';
+    }
+
+
+
+  }
+
